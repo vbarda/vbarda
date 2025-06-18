@@ -1,1 +1,1 @@
-Software Engineer at [LangChain](https://www.langchain.com/). Previously ML engineer at [Kensho](https://kensho.com/).
+Founder & AI engineer. Previously AI/SWE @ [LangChain](https://www.langchain.com/) and [Kensho](https://kensho.com/).
